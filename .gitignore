@@ -1,3 +1,6 @@
+# local file
+.DS_Store
+
 # random files from assignments
 movie_ratings.txt
 
